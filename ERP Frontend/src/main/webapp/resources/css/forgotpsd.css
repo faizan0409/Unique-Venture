@@ -1,0 +1,70 @@
+@charset "ISO-8859-1";
+
+.responsive {
+	width: 100%;
+	height: auto;
+}
+
+.form-gap {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	/* margin: auto; */
+}
+
+.container {
+	margin-bottom: auto;
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+@media ( min-width : 768px) .container {
+	padding-bottom
+	:auto
+	;
+
+}
+
+.panel {
+	margin-bottom: auto;
+	background-color: #ffffff;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	box-shadow: 0px 0px 10px 05px rgb(32 45 135/ 47%);
+}
+
+.panel-body {
+	padding: auto;
+	width: 100%;
+	height: 100%;
+}
+
+#txtPassword .input-group-text {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	padding: .375rem .75rem;
+	margin-bottom: 0;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #495057;
+	text-align: left;
+	white-space: nowrap;
+	background-color: #e9ecef;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+}
+
+#v {
+	padding: 2px 260px;
+	
+}
+

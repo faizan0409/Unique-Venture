@@ -1,0 +1,171 @@
+@charset "ISO-8859-1";
+body {
+	background: #ffffff;
+	font: 13px/1.7em 'Open Sans';
+}
+
+form {
+	background-color: #ffffff;
+	border-color: black;
+}
+
+input, button {
+	background-color: white;
+	font-family: 'Open Sans';
+}
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+img {
+	vertical-align: middle;
+	border-style: none;
+}
+
+.tf_login_page_wrapper .card .card-header h4 {
+	margin-bottom: 5px;
+	font-weight: 900;
+}
+
+html {
+	font-family: sans-serif;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+.strong {
+	font-weight: bold;
+}
+
+.card .card-header .input-group .form-control {
+	font-size: 14px;
+	border-width: 2px;
+	box-shadow: none !important;
+	padding: 11px 50px 10px 10px;
+	padding-left: 12px;
+	height: 40px;
+	line-height: 1;
+	background-color: #ffffff !important;
+}
+
+
+.img-responsive {
+	display: inline-block;
+	height: auto;
+	max-width: 100%;
+}
+
+.card .card-header h4 {
+	margin-bottom: 5px;
+	font-weight: 900;
+	font-size: 25px;
+}
+
+@media ( min-width : 768px) {
+	.row {
+		margin-right: -15px;
+		margin-left: -15px;
+	}
+}
+
+.row .row {
+	margin-right: -15px;
+	margin-left: -15px;
+}
+
+.container {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.container:before, .container:after {
+	display: table;
+}
+
+.container:after {
+	clear: both;
+}
+
+}
+.card {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	min-width: 0;
+	background-color: #daf291;
+	background-clip: border-box;
+}
+
+.card-header {
+	padding: .75rem 1.25rem;
+	margin-bottom: 0;
+	background-color: #ffffff;
+	border-bottom: 1px solid rgb(0 0 0/ 13%);
+	box-shadow: 0px 0px 10px 05px rgb(32 45 135/ 47%);
+}
+
+.form-group {
+	background-color: #f6f6f6;
+	margin-bottom:0rem;
+	width:100%;
+}
+
+.tf_login_page_wrapper .card {
+	border: 0px;
+	border-radius: 10px;
+	box-shadow: 0px 10px 30px -10px rgb(32 65 140/ 47%);
+}
+
+.h-100 {
+	height: 100% !important;
+}
+
+.tf_login_page_wrapper .tf_login_bg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+.tf_login_page_wrapper .tf_login_bg .span {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background-size: contain;
+	background-position: bottom;
+	background-blend-mode: luminosity;
+	opacity: 0.3;
+	filter: blur(3px);
+}
+
+@media ( min-width : 576px) .container , . container-sm {
+	max-width:540px;
+	
+
+}
+
+.container {
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+@media ( max-width : 1366px) .row [class*="col"] {
+}
+
+.ml-auto, .mx-auto {
+	margin-left: auto !important;
+}
+
+.mr-auto, .mx-auto {
+	margin-right: auto !important;
+}
+
+
