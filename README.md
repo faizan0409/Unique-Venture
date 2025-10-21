@@ -16,7 +16,7 @@ Built using modern and reliable technologies:
 - 	🚀 Spring Boot – For rapid development and deployment
 - 	✨ JavaScript (JS) – For dynamic client-side interactions
 - 💫 jQuery – For simplified DOM manipulation
--	🧾 HTML – For clean and semantic page structure
+-	🧾 HTML & Bootstrap – For clean and semantic page structure
 -	🎨 JSP – For server-side rendering and templating
 
 # 📦 Core Modules
